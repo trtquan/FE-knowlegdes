@@ -1,0 +1,26 @@
+{
+  "name": "fe-vault",
+  "version": "1.0.0",
+  "description": "consumse FE ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gg": "git-change-date"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trtquan/FE-knowlegdes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trtquan/FE-knowlegdes/issues"
+  },
+  "homepage": "https://github.com/trtquan/FE-knowlegdes#readme",
+  "dependencies": {
+    "git-change-date": "^1.0.2"
+  }
+}

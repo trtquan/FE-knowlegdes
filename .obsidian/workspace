@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "b474e58105b1e9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9efe4459f0551a73",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed3868f1a10959ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d0d9a27afe5582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1619658872ed9f11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f19dd5b17d3dd36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3df143d457c2fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f4c6c96f32da87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664ebf924daa9368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "2020-07-15.md",
+    "test/Test.md",
+    "redux.md",
+    "dead-code elimination.md",
+    "actions.md"
+  ]
+}
